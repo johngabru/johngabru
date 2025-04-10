@@ -1,6 +1,4 @@
 ## Hey, sou John Victor! 👋
-## Analista de Sistemas e Segurança 
-## ADS - 4/4 e SI - 1/4
 
 <p align="right">
 <table width="100%">
