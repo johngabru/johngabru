@@ -19,6 +19,12 @@ Fique à vontade para me chamar para trocar ideias ou conversar sobre projetos! 
 <img src="https://views.whatilearened.today/views/github/johngabru/views.svg"> <a href="https://github.com/johngabru/"><img src="https://img.shields.io/github/followers/johngabru?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
 </p>
 
+### Experiências
+
+- 💻 Desenvolvedor - CMSP
+- 💻 Estagiário de Gestão de Riscos - Bradesco
+- 📚 Estudante de ADS, SI - Universidade Paulista
+
 <div>
 <a href="https://github.com/johngabru">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johngabru&layout=compact&langs_count=7&theme=dracula"/>
@@ -42,4 +48,7 @@ Fique à vontade para me chamar para trocar ideias ou conversar sobre projetos! 
 <a href = "mailto:joaovictortorroc@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/joão-rocco-aab821294/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+##
+  ![Snake animation](https://github.com/johngabru/johngabru/blob/output/github-contribution-grid-snake.svg)
           
