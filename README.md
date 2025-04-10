@@ -25,6 +25,8 @@ Fique à vontade para me chamar para trocar ideias ou conversar sobre projetos! 
 - 💻 Estagiário de Gestão de Riscos - Bradesco
 - 📚 Estudante de ADS, SI - Universidade Paulista
 
+## 
+
 <div>
 <a href="https://github.com/johngabru">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johngabru&layout=compact&langs_count=7&theme=dracula"/>
@@ -49,7 +51,4 @@ Fique à vontade para me chamar para trocar ideias ou conversar sobre projetos! 
 <a href="https://www.linkedin.com/in/joão-rocco-aab821294/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-##
-
-![Snake animation](https://github.com/johngabru/blob/output/github-contribution-grid-snake.svg)
           
