@@ -2,6 +2,25 @@
 ## Analista de Sistemas e Segurança 
 ## ADS - 4/4 e SI - 1/4
 
+<p align="right">
+<table width="100%">
+<tr><td valign="top" width="50%">
+
+Sou Desenvolvedor de Software com foco em Frontend e atualmente estou aprendendo e explorando cada vez mais o universo do Backend.
+Sou formado em Análise e Desenvolvimento de Sistemas (ADS) e atualmente estudo Segurança da Informação, com planos de cursar uma pós-graduação na área de Cibersegurança ou Inteligência Artificial.
+Estou sempre em busca de me aprofundar no universo da tecnologia e explorar novas ferramentas e práticas que contribuam para soluções mais robustas e escaláveis.
+
+No tempo livre, gosto de ir ao cinema e ler bons livros. Também sou muito gamer.
+Fique à vontade para me chamar para trocar ideias ou conversar sobre projetos! 🎬📚🎮
+
+</td></tr>
+</table>
+</p>
+
+<p align="right">
+<img src="https://views.whatilearened.today/views/github/johngabru/views.svg"> <a href="https://github.com/johngabru/"><img src="https://img.shields.io/github/followers/johngabru?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+</p>
+
 <div>
 <a href="https://github.com/johngabru">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johngabru&layout=compact&langs_count=7&theme=dracula"/>
