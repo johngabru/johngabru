@@ -50,5 +50,6 @@ Fique à vontade para me chamar para trocar ideias ou conversar sobre projetos! 
 </div>
 
 ##
-  ![Snake animation](https://github.com/johngabru/johngabru/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/johngabru/blob/output/github-contribution-grid-snake.svg)
           
